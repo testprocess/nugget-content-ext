@@ -1,0 +1,10 @@
+{
+    "name": "nuggetcontent",
+    "description": "가장 빠르고 효과적으로 콘텐츠를 가져옵니다",
+    "version": "1.0.0",
+    "index": "./index.html",
+    "window": {
+        "width": 400,
+        "height": 400
+    }
+}
